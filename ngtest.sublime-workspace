@@ -1,0 +1,1473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"template",
+				"templateUrl"
+			],
+			[
+				"defer",
+				"deferred"
+			],
+			[
+				"succ",
+				"successcb"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ad",
+				"addStrength"
+			],
+			[
+				"su",
+				"superheroCtrl"
+			],
+			[
+				"User",
+				"UserList"
+			],
+			[
+				"user",
+				"UserList"
+			],
+			[
+				"sho",
+				"showSessions"
+			],
+			[
+				"console",
+				"consoleInstall"
+			],
+			[
+				"applic",
+				"applicationCache"
+			],
+			[
+				"conso",
+				"consoleInstall"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"data",
+				"data-position=  (attribute)"
+			],
+			[
+				"daa",
+				"data-role=  (attribute)"
+			],
+			[
+				"emoticon",
+				"emoticon_val"
+			],
+			[
+				"scro",
+				"scrollTop  (function)"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"mysfet",
+				"mysql_fetch_assoc"
+			],
+			[
+				"result",
+				"results_row"
+			],
+			[
+				"resu",
+				"results_row"
+			],
+			[
+				"myfetca",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysnum",
+				"mysql_num_rows"
+			],
+			[
+				"ser",
+				"search_term"
+			],
+			[
+				"po",
+				"post  (function)"
+			],
+			[
+				"mysel",
+				"mysql_select_db"
+			],
+			[
+				"count",
+				"countDown"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"available",
+				"gupnp_root_device_set_available"
+			],
+			[
+				"username",
+				"username_status"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"key",
+				"keypress  (function)"
+			],
+			[
+				"max",
+				"max_value"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			],
+			[
+				"e",
+				"eventDate"
+			],
+			[
+				"coun",
+				"countdown_exec"
+			],
+			[
+				"email",
+				"email_feedback"
+			],
+			[
+				"emai",
+				"email_feedback"
+			],
+			[
+				"em",
+				"email_feedback"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"scrol",
+				"scroll_height"
+			],
+			[
+				"remo",
+				"removeAttr  (function)"
+			],
+			[
+				"scroll",
+				"scroll_height"
+			],
+			[
+				"win",
+				"window_height"
+			],
+			[
+				"wi",
+				"window_height"
+			],
+			[
+				"scr",
+				"scrollTop  (function)"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"image",
+				"image_feedback"
+			],
+			[
+				"this",
+				"this_sel"
+			],
+			[
+				"nex",
+				"nextAll"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"combine",
+				"combined_text"
+			],
+			[
+				"hover",
+				"hovertext"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"some",
+				"some_text"
+			],
+			[
+				"tog",
+				"toggle_message"
+			],
+			[
+				"to",
+				"toggle_message"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"per",
+				"personObj"
+			],
+			[
+				"eve",
+				"eventUtility"
+			],
+			[
+				"perso",
+				"person2"
+			],
+			[
+				"mouse",
+				"mouseHandler"
+			],
+			[
+				"class",
+				"classData"
+			],
+			[
+				"butt",
+				"button"
+			],
+			[
+				"mov",
+				"moveBy"
+			],
+			[
+				"move",
+				"moveBox"
+			],
+			[
+				"css-clas",
+				"css-class2"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"lo",
+				"lowerCase"
+			],
+			[
+				"s",
+				"substr3"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"inde",
+				"index2"
+			],
+			[
+				"global",
+				"globalVar"
+			],
+			[
+				"glob",
+				"globalFunction"
+			],
+			[
+				"glo",
+				"globalVar"
+			],
+			[
+				"par",
+				"paramTwo"
+			],
+			[
+				"para",
+				"paramOne"
+			],
+			[
+				"coo",
+				"cookieData"
+			],
+			[
+				"bot",
+				"botVar"
+			],
+			[
+				"bo",
+				"botvar"
+			],
+			[
+				"A",
+				"A-Za-z"
+			],
+			[
+				"a",
+				"A-Za-z0-9"
+			],
+			[
+				"input",
+				"inputField"
+			],
+			[
+				"inpu",
+				"inputField"
+			],
+			[
+				"help",
+				"helpId"
+			],
+			[
+				"hel",
+				"helpId"
+			],
+			[
+				"A-Z",
+				"A-Za-z0-9"
+			],
+			[
+				"n",
+				"newNode"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"new",
+				"newText"
+			],
+			[
+				"fun",
+				"Function"
+			],
+			[
+				"mult",
+				"multiArray"
+			],
+			[
+				"sam",
+				"sampArray4"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"h3",
+				"h3style"
+			],
+			[
+				"num",
+				"numberTwo"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"rand",
+				"rand_num2"
+			],
+			[
+				"floa",
+				"float_str"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"years",
+				"yearsUntilRetire"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ffa",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"item",
+				"item1"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"food",
+				"foodArray"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"tree",
+				"treeOut"
+			],
+			[
+				"artic",
+				"article_keywords"
+			],
+			[
+				"wh",
+				"where"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pagins",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"alig",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"liv",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"brackets",
+				"BracketHighlighter: Select Bracket Content"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				"plain",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"parem",
+				"Package Control: Remove Package"
+			],
+			[
+				"su",
+				"SublimeLint: Next Error"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"xml",
+				"Snippet: XML Processing Instruction"
+			],
+			[
+				"htm",
+				"Snippet: html5"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sn",
+				"Snippet: html5"
+			],
+			[
+				"html5",
+				"Snippet: html5"
+			],
+			[
+				"sni",
+				"Snippet: html5"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"viw",
+				"View In Browser"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"lime",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"bindi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"copy as ",
+				"File: Copy as Tag style"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"title",
+				"Convert Case: Title Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"synjavas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synjas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fe pa",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"man",
+				"Fetch: Manage"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"P",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa ",
+				"Package Control: List Packages"
+			],
+			[
+				"pa i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa in",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/templates/EventList.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/data/event/1.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/EventListController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/services/EventData.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events-after/app/js/app.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events-after/app/js/services/EventData.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/data/event/2.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events 2/app/data/event/3.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/app.js",
+		"/Users/elvirasantos/Sites/website.name/core/classes/Article.php",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/templates/NewEvent.html",
+		"/Users/elvirasantos/Sites/js/app.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events 2/app/templates/EventList.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events 2/app/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/EventDetails.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/TimeoutSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/CookieStoreSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/CookieStoreSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/FilterSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/FilterSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/filters.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/services/ExceptionHandler.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/LocaleSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/LocaleSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/controllers/FilterSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/services/ExceptionHandler.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/TimeoutSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/CompileSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/CompileSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/CacheSampleController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/CacheSample.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/app.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/controllers/EventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/4_ExerciseFiles/Events/app/js/controllers/EventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/EventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/NewEvent.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/EditEventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/data/event/999.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/services/EventData.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/js/controllers/EditEventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/js/controllers/EditEventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/data/event/1_.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/data/event/1.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/json/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events_after/app/data/event/2.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/posts.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app__/data/event/1.json.orig",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/json/js/posts.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/lib/angular/angular-resource.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events/app/js/controllers/EventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events/app/js/controllers/EditEventController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events/app/EventDetails.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/Events/app/js/services/EventData.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/css/app.css",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/services/UserData.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/data/event/1/data.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/EditProfile.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers/EditProfileController.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/materials/3_ExerciseFiles/m3-services-after.zip",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/EventDetails_explained.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/EventDetails1.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/css/bootstrap.min.css",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/lib/angular/angular-sanitize.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/directives.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/app/js/controllers.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/angular-seed-master/scripts/web-server.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/pluralsight.com/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/tutorialzine.com/simple_editor/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/tutorialzine.com/navigation_menu/styles.css",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/tutorialzine.com/navigation_menu/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/tutorialzine.com/navigation_menu/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/16_understanding_isolate_scoope/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/16_understanding_isolate_scoope/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/15_directive_to_directive_communication/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/15_directive_to_directive_communication/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/14_directives_talking_to_controllers/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/14_directives_talking_to_controllers/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/13_useful_behaviors/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/13_useful_behaviors/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/12_basic_behaviors/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/12_basic_behaviors/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/11_directive_restrictions/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/11_directive_restrictions/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/10_first_directive/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/10_first_directive/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/9_built-in_filters/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/9_built-in_filters/avengers.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/8_ngFilter/avengers.json",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/8_ngFilter/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/8_ngFilter/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/7_testing_overview/mainSpec.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/7_testing_overview/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/7_testing_overview/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/6_filters/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/6_filters/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/5_defining_a_method_on_the_scope/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/5_defining_a_method_on_the_scope/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/4_sharing-data-between-controllers/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/4_sharing-data-between-controllers/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/3_thedot/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/3_thedot/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/2_controllers/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/2_controllers/main.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/egghead/1_binding/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/AngularJSDemos/DemoPartials/1. Data binding basics.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/AngularJSDemos/DemoPartials/2. Looping with ng-repeat.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/introduction/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/AngularJSDemos/DemoList.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/index.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/js/controllers/app.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/js/app.js",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/partials/destinations.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/partials/airport.html",
+		"/Users/elvirasantos/Sites/tutorials/AngularJS/server/public/partials/form.html",
+		"/Users/elvirasantos/Sites/tutorials/angularJS/server/public/js/controllers/app.js",
+		"/Users/elvirasantos/Sites/tutorials/angularJS/server/public/index.html",
+		"/Users/elvirasantos/Sites/tutorials/angular/Lynda.com/index.html",
+		"/Users/elvirasantos/Sites/tutorials/angular/Lynda.com/angular.min.js",
+		"/Users/elvirasantos/Sites/tutorials/angular/introduction/index.html",
+		"/Users/elvirasantos/Sites/tutorials/backbone/backbone_app/script.js",
+		"/Users/elvirasantos/Sites/tutorials/backbone/backbone_app/index.html",
+		"/Users/elvirasantos/Sites/tutorials/backbone/backbone_app/backbone.js",
+		"/Users/elvirasantos/Sites/tutorials/backbone/backbone_app/underscore.js",
+		"/Users/elvirasantos/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/elvirasantos/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/elvirasantos/Sites/tutorials/backbone/backbone_app/NotORM.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/elvirasantos/Sites/tutorials/jquery-mobile/conference_app",
+			"/Users/elvirasantos/Sites/tutorials/jquery-mobile/conference",
+			"/Users/elvirasantos/Sites/tutorials/jquery-mobile/conference/css",
+			"<open files>",
+			"",
+			"/Users/elvirasantos/Sites/tutorials/jquery-mobile/introduction,<open files>",
+			"/Users/elvirasantos/Sites/tutorials/jquery-mobile/introduction",
+			"",
+			"/Users/elvirasantos/Sites/tutorials/jquery/jquery 200 videos",
+			"/Users/elvirasantos/Sites/website.name",
+			"/Users/elvirasantos/Sites/website.name/admin/about,/Users/elvirasantos/Sites/website.name",
+			"/Users/elvirasantos/Sites/website.name/admin/about",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/login",
+			"/Users/elvirasantos/Sites/series",
+			"/Users/elvirasantos/Sites/website.name",
+			"/Users/elvirasantos/Sites/series",
+			"/Users/elvirasantos/Sites/seriesforforeach",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/login",
+			"/Users/elvirasantos/Sites/series",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/php",
+			"",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/320andup",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/360",
+			"/Users/elvirasantos/Sites/3.elvirasantos.local/playground/twitterbootstrap",
+			"",
+			"foundation,/Users/elvirasantos/Sites/3.elvirasantos.local/playground/foundation",
+			"foundation",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"newEventForm",
+			"\"",
+			"eventLocation",
+			"eventTime",
+			"eventDate",
+			"eventName",
+			"...\">",
+			"evenTime",
+			"eventName",
+			"unsafe",
+			"glyphicon-chevron-up",
+			"votingWidget",
+			"../fonts",
+			"glyph",
+			"font",
+			"icon-white",
+			"icon-chevron-down",
+			"icon-chevron-up",
+			"icon-chevron",
+			"chevron",
+			"message",
+			"show",
+			"could not",
+			"later",
+			".log",
+			"later",
+			"logo.png",
+			"session.json",
+			"png",
+			"session.json",
+			"sponsors",
+			"logo",
+			"<",
+			"\", ",
+			"< ",
+			"jquery.js",
+			"devide",
+			"ios",
+			"install",
+			"#feedback",
+			"h3",
+			"images/icons",
+			"icons",
+			"div",
+			"yes",
+			"placeholder",
+			"Date",
+			"date",
+			"Date",
+			"placeholder",
+			"Placeholder",
+			"placeholder",
+			"Placeholder",
+			"required",
+			"Required",
+			"required",
+			"Required",
+			"url",
+			"button",
+			"<br>",
+			"<p>",
+			"p",
+			"filter",
+			"aside",
+			"count",
+			"aside",
+			"class=\"ul-li-icon\"",
+			"icons",
+			"help",
+			"Acordeón",
+			"h3",
+			"cotent",
+			"home",
+			"Home",
+			"home",
+			"Home",
+			"home",
+			"HOME",
+			"Home",
+			"home",
+			"footer",
+			"roll",
+			"rool",
+			"brand",
+			">\n",
+			"web",
+			"<p>2013</p>",
+			"		    <h3>First paragraph</h3>\n		    <h3>First paragraph</h3>\n<p>2013</p>",
+			"footer",
+			"p",
+			"My",
+			"Number",
+			"Password",
+			"\n					",
+			"roll",
+			"Radio button",
+			"radiobuttton",
+			"checkbox1",
+			"radiobutton",
+			"		    	<input id=\"checkbox\" type=\"checkbox\"> Milk\n",
+			"Milk",
+			"<p>",
+			"p",
+			"div",
+			"exter",
+			"h4",
+			"            <p>This is Project q</p>\n",
+			"h1",
+			"options",
+			"text",
+			"action",
+			"word",
+			"time",
+			"div",
+			"username",
+			"´",
+			"h1",
+			"drag",
+			"minutes",
+			"hours",
+			"days",
+			"name",
+			"disabled",
+			"height",
+			"width",
+			"item",
+			"value",
+			"tartan"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"device",
+			"../images/icons",
+			"<h4>2013</h4>",
+			"sanitize_html($_SERVER['PHP_SELF']);",
+			"<?php sanitize_html($_SERVER['PHP_SELF']); ?>",
+			"<?php echo sanitize_html($_SERVER['PHP_SELF']); ?>",
+			"action=\"<?php echo $_SERVER['PHP_SELF'] ?>\"",
+			"",
+			"$action = sanitize_html($_GET['action']);",
+			"$row",
+			"voluntarywork",
+			"mysql_fetch_assoc",
+			"spec_",
+			"",
+			"</span> \n        </div>\n      </li>",
+			"Begoña",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 63.0
+	},
+	"output.find_results":
+	{
+		"height": 279.0
+	},
+	"project": "ngtest.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"editeve",
+				"tutorials/AngularJS/server/public/js/controllers/EditEventController.js"
+			],
+			[
+				"port",
+				"tutorials/jquery-mobile/introduction/portfolio.html"
+			],
+			[
+				"tas",
+				"website.name/tasks.TODO"
+			],
+			[
+				"pend",
+				"website.name/pendiente.txt"
+			],
+			[
+				"",
+				"tutorials/jquery/jquery 200 videos/72_slideup/js/slideup.js"
+			],
+			[
+				"eve",
+				"tutorials/js/JavaScript Fundamentals 101/Lesson19/eventUtility2.js"
+			],
+			[
+				"event",
+				"tutorials/js/JavaScript Fundamentals 101/Lesson19/eventUtility.js"
+			],
+			[
+				"lesson",
+				"tutorials/js/JavaScript Fundamentals 101/Lesson1/index.html"
+			],
+			[
+				"8-1",
+				"tutorials/js/newthinktank.com/part8/part8-1.html"
+			],
+			[
+				"19for",
+				"tutorials/js/19_for_loop.html"
+			],
+			[
+				"pendi",
+				"website.name/pendiente.txt"
+			],
+			[
+				"pen",
+				"website.name/pendiente.txt"
+			],
+			[
+				"pendie",
+				"website.name/pendiente.txt"
+			],
+			[
+				"pendien",
+				"website.name/pendiente.txt"
+			],
+			[
+				"pendiente",
+				"website.name/pendiente.txt"
+			],
+			[
+				"comment.php",
+				"website.name/core/classes/Comment.php"
+			],
+			[
+				"arti",
+				"website.name/admin/cms/article.php"
+			],
+			[
+				"conn",
+				"3.elvirasantos.local/connect.php"
+			],
+			[
+				"conne",
+				"3.elvirasantos.local/connect.php"
+			],
+			[
+				"pe",
+				"website.name/pendiente.txt"
+			],
+			[
+				"suc",
+				"website.name/modules/contact/success.php"
+			],
+			[
+				"en.php",
+				"website.name/core/lang/en.php"
+			],
+			[
+				"es.ph",
+				"website.name/core/lang/es.php"
+			],
+			[
+				"dele",
+				"website.name/admin/delete.php"
+			],
+			[
+				"volu",
+				"website.name/admin/about/voluntary-work.php"
+			],
+			[
+				"edit",
+				"website.name/admin/edit.php"
+			],
+			[
+				"edit.php",
+				"website.name/admin/edit.php"
+			],
+			[
+				"add.php",
+				"website.name/admin/add.php"
+			],
+			[
+				"delet",
+				"website.name/admin/delete.php"
+			],
+			[
+				"admininde",
+				"website.name/admin/index.php"
+			],
+			[
+				"delete",
+				"website.name/admin/delete.php"
+			],
+			[
+				"speciali",
+				"website.name/modules/about/specialization-courses.php"
+			],
+			[
+				"spece",
+				"3.elvirasantos.local/specialization_courses.php"
+			],
+			[
+				"aboutinde",
+				"website.name/modules/about/index.php"
+			],
+			[
+				"general",
+				"website.name/core/functions/general.php"
+			],
+			[
+				"skill",
+				"website.name/modules/about/skills.php"
+			],
+			[
+				"nav",
+				"website.name/includes/nav.php"
+			],
+			[
+				"ini",
+				"website.name/core/init.php"
+			],
+			[
+				"es.php",
+				"website.name/core/lang/es.php"
+			],
+			[
+				"about",
+				"website.name/modules/about/index.php"
+			],
+			[
+				"aboutindex",
+				"website.name/modules/about/index.php"
+			],
+			[
+				"header",
+				"website.name/includes/header.php"
+			],
+			[
+				"scre",
+				"playground/login/css/screen.css"
+			],
+			[
+				"screen.c",
+				"playground/login/css/screen.css"
+			],
+			[
+				"logged",
+				"playground/login/includes/widgets/loggedin.php"
+			],
+			[
+				"init",
+				"playground/login/core/init.php"
+			],
+			[
+				"table",
+				"playground/php/table1.php"
+			],
+			[
+				"movis",
+				"playground/php/moviesite.php"
+			],
+			[
+				"movie",
+				"playground/php/movie1.php"
+			],
+			[
+				"logi",
+				"playground/php/login.php"
+			],
+			[
+				"keyma",
+				"/Users/elvirasantos/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+			],
+			[
+				"normastyle",
+				"playground/normalize/styles.css"
+			],
+			[
+				"normaty",
+				"playground/normalize/styles.css"
+			],
+			[
+				"norsty",
+				"playground/normalize/styles.css"
+			],
+			[
+				"test",
+				"test.js"
+			],
+			[
+				"b",
+				"en/brand.html"
+			],
+			[
+				"a",
+				"en/about.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
