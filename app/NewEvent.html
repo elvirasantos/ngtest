@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" ng-app="eventsApp">
+<head>
+  <meta charset="utf-8">
+  <title>Events App</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="css/app.css"/>
+</head>
+<body>
+  <main ng-controller="EditEventController" class="container">
+    <nav>
+  	<ul>
+  		<li><a href="EventDetails.html">Back</a></li>
+  	</ul>
+  </nav>
+  <h1>New Event</h1>
+  <form role="form">
+    <fieldset>
+     <div class="form-group">
+      <label for="eventName" class="control-label">Event name:</label>
+      <input type="text" id="eventName" class="form-control" placeholder="Name of your event...">
+      </div>
+      <div class="form-group">
+      <label for="eventDate" class="control-label">Event date:</label>
+      <input type="date" id="eventDate" class="form-control" placeholder="Format (dd/mm/yyyy)...">
+      </div>
+     <div class="form-group">
+      <label for="eventTime" class="control-label">Event time:</label>
+      <input type="text" id="eventTime" class="form-control" placeholder="Start and end time...">
+      </div>
+       <div class="form-group">
+      <label for="eventLocation" class="control-label">Event location:</label>
+      <input type="text" id="eventLocation" class="form-control" placeholder="Address of event...">
+      </div>
+      <div class="form-group">
+      <label for="eventCity" class="control-label">Event city:</label>
+      <input type="text" id="eventCity" class="form-control" placeholder="City...">
+      </div>
+      <div class="form-group">
+      <label for="eventProvince" class="control-label">Event province:</label>
+      <input type="text" id="eventProvince" class="form-control" placeholder="Province...">
+      </div>
+      <div class="form-group">
+      <label for="eventImageUrl" class="control-label">Image:</label>
+      <input type="text" id="eventImageUrl" class="form-control" placeholder="Url of image...">
+      </div>
+    </fieldset>
+    <img ng-src="{{event.imageUrl}}">
+<button type="submit" class="btn btn-primary">Save</button>
+<button type="submit" class="btn btn-default">Cancel</button>
+  </form>
+  </main>
+
+  <script src="/lib/jquery.min.js"></script>
+  <script src="/lib/underscore-min.js"></script>
+  <script src="/lib/bootstrap.min.js"></script>
+  <script src="/lib/angular/angular.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/js/controllers/EventController.js"></script>
+  <script src="/js/controllers/EditEventController.js"></script>
+  <script src="/js/filters.js"></script>
+</body>
+</html>

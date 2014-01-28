@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en" ng-app="eventsApp">
+<head>
+  <meta charset="utf-8">
+  <title>Events App</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css"/>
+  <link rel="stylesheet" href="css/app.css"/>
+</head>
+<body>
+  <main ng-controller="EventController" class="container">
+  <img ng-src="{{event.imageUrl}}" alt="{{event.name}}"/>
+    <nav>	
+  		<a href="/NewEvent.html" class="btn btn-default">Create event</a>
+  </nav>
+  <h1>{{event.name | uppercase}}</h1>
+  <div  class="col-md-12">
+  <ul class="col-md-2 list-unstyled">
+  	<li><strong>Date:</strong> {{event.date | date:'mediumDate'}}</li>
+  	<li><strong>Time:</strong> {{event.time}}</li>
+  	<li><strong>Price:</strong> {{34 | currency}}</li>
+  	</ul>
+  	<address class="col-md-2">
+  		<strong>Address:</strong></br>
+		{{event.location.address}},</br>
+		{{event.location.city}} - {{event.location.province}}
+  	</address>
+  	</div>
+  	<h2>Sessions</h2>
+  	<p>Order by:</p>
+  	<select name="orderBy" id="orderBy" ng-model="sortorder">
+	  	<option selected value="name">Name</option>
+	  	<option value="-upVoteCount">Votes</option>
+  	</select>
+  	<select name="level" id="level" ng-model="query.level">
+  		<option value="">All</option>
+  		<option value="introductory">Introductory</option>
+  		<option value="intermediate">Intermediate</option>
+  		<option value="advanced">Advanced</option>
+  	</select>
+  	<ul>
+  		<li ng-repeat="session in event.sessions | orderBy:sortorder | filter:query">
+	  		<div>
+		  		<h3>{{session.name}}</h3>
+		  		<h4>{{session.creatorName}}</h4>
+		  		<span>Duration: {{session.duration | durations}}</span></br>
+		  		<span>Level: {{session.level}}</span>
+		  		<p>{{session.abstract}}</p>
+	  		</div>
+	  		<div>
+	  			<span ng-click="upVoteSession(session)">
+		  			<span class="glyphicon glyphicon-thumbs-up"></span>
+		  		</span>
+		  		<span>{{session.upVoteCount}}</span>
+				<span ng-click="downVoteSession(session)">
+		  			<span class="glyphicon glyphicon-thumbs-down"></span>
+		  		</span>		  	
+		  	</div>
+  		</li>
+  	</ul>
+  </main>
+
+  <script src="/lib/jquery.min.js"></script>
+  <script src="/lib/underscore-min.js"></script>
+  <script src="/lib/bootstrap.min.js"></script>
+  <script src="/lib/angular/angular.js"></script>
+  <script src="/js/app.js"></script>
+  <script src="/js/controllers/EventController.js"></script>
+  <script src="/js/filters.js"></script>
+</body>
+</html>
